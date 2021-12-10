@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<JamManPatch xmlns="http://schemas.digitech.com/JamMan/Patch" device="JamManStereo" version="1">
+    <PatchName></PatchName>
+    <RhythmType>StudioKickAndHighHat</RhythmType>
+    <StopMode>StopInstantly</StopMode>
+    <SettingsVersion>1</SettingsVersion>
+    <ID>cd4223fa-1dd3-11b2-af15-1f49df4ddbf5</ID>
+    <OriginID>3618557c-1dd2-11b2-af15-71b49c60c8c9</OriginID>
+    <Metadata />
+</JamManPatch>
