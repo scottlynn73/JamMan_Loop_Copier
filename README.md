@@ -25,11 +25,10 @@ it is copied over as I don't use the on board rhythm functions on the unit. All 
 The script also places a file called `loop_locations.txt` into your `Processed_loops` folder. This file shows the original filename of each wav, and the loop
 number it has been assigned to in the JamMan. I find this useful to be able to find loops that had a meaningful name prior to renaming them for the JamMan!
 
-Example entries in `loop_locations.txt` (on the left is the name of the wav from your library, and on the right you can see where it ended up on the JamMan.
+Example entries in `loop_locations.txt` are shown below (on the left is the name of the wav from your library, and on the right you can see where it ended up on the JamMan.
 
-----------------------------------------------------
-Locations of the original file in the Jamman folders
-----------------------------------------------------
+...................................................................
+Locations of the original file in the Jamman folders:
 
 Bridge 03e_120.wav = Processed_loops/Patch01/PhraseA/phrase.wav
 
