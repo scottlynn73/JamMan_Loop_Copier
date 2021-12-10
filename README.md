@@ -26,11 +26,15 @@ The script also places a file called `loop_locations.txt` into your `Processed_l
 number it has been assigned to in the JamMan. I find this useful to be able to find loops that had a meaningful name prior to renaming them for the JamMan!
 
 Example entries in `loop_locations.txt` (on the left is the name of the wav from your library, and on the right you can see where it ended up on the JamMan.
+
 ----------------------------------------------------
 Locations of the original file in the Jamman folders
 ----------------------------------------------------
+
 Bridge 03e_120.wav = Processed_loops/Patch01/PhraseA/phrase.wav
+
 Pre Chorus 03c_120.wav = Processed_loops/Patch02/PhraseA/phrase.wav
+
 Pre Chorus 02c_120.wav = Processed_loops/Patch03/PhraseA/phrase.wav
 
 
