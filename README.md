@@ -11,6 +11,8 @@ Open the `jamman_processor.py` in a text editor or IDE
 
 Set the `loop_folder` variable to the folder you just created e.g `/Users/myusername/Music/drum_loops`
 
+Set the `start_at` variable to any number between 0 and 99- this allows you to add new loops to an existing JamMan SD card without over writing the ones that are already there. E.g. if you ran this script and already have 50 loops (in folders Phrase 0 to Phrase 49), set the `start_at=50`.
+
 Run the script with `python jamman_processor.py` in your terminal
 
 # Results
