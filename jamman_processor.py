@@ -1,6 +1,9 @@
 import os
 import shutil
 
+##########################
+# USER SET THESE VARIABLES
+##########################
 # Folder with loops to be transferred from
 loop_folder = "/Users/scotthamilton/Music/drum_loops"
 
@@ -8,12 +11,18 @@ loop_folder = "/Users/scotthamilton/Music/drum_loops"
 processed_loops_folder = os.path.join(loop_folder, "Processed_loops")
 processed_loops_folder = "Processed_loops"
 
+# Loop start number
+start_at = 0
+
+##########################
+##########################
+
 # Make the output folder if it doesn't exist already
 if not os.path.exists(processed_loops_folder):
     os.mkdir(processed_loops_folder)
 
 # Loop through all the files and place a renamed copy inside each PHRASE folder
-counter = 1
+counter = start_at
 
 # Make a text file tha shows which loop has been placed where (to aid in finding files when they're on the Jamman)
 f = open(os.path.join(processed_loops_folder, "loop_locations.txt"), 'w')
