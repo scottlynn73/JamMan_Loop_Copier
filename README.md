@@ -1,5 +1,6 @@
-# JamMan_Loop_Copier by Scott Hamilton
-Getting loops onto the JamMan Stereo is a pain in the backside. This script makes it easy.
+# JamMan_Loop_Copier
+## by Scott Hamilton
+Getting loops onto the Digitech JamMan Stereo is a pain in the backside. This script makes it easy. **I've only tested it with external SD cards, though I imagine it will work the same if you can mount the JamMan's internal storage as an external drive**
 
 This is a python script to add loops to the Digitech Jamman Stereo pedal (more specifically it's external SD card) in a convenient manner. The script only requires 
 standard python 3 libraries so can be easily executed with 'python jamman_processor.py' in the terminal (provided python 3 is installed on the system).
